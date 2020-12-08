@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dialer</string>
+
+    <string name="one">1<br><small></small></br></string>
+    <string name="two">2<br><small>abc</small></br></string>
+    <string name="three">3<br><small>def</small></br></string>
+    <string name="four">4<br><small>ghi</small></br></string>
+    <string name="five">5<br><small>jkl</small></br></string>
+    <string name="six">6<br><small>mno</small></br></string>
+    <string name="seven">7<br><small>pqrs</small></br></string>
+    <string name="eight">8<br><small>tuv</small></br></string>
+    <string name="nine">9<br><small>wxyz</small></br></string>
+    <string name="zero">0<br><small>+</small></br></string>
+    <string name="hash">#</string>
+    <string name="star">*</string>
+    <string name="X">X</string>
+    <string name="hint">Phone No.</string>
+</resources>
